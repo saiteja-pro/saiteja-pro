@@ -41,24 +41,3 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-<br>
-<h3> 📈 &nbsp;My Stats</h3>
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiteja-pro&theme=buefy&show_icons=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-pro&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=saiteja-pro&theme=dark)
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiteja-pro&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
-
-</div>
