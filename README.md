@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>Sai Teja Bhoomraogari
 
 - 💻 &nbsp; Software Engineer
-- 👨🏼‍🎓 &nbsp; Attained Master's of Science in Business Analytics at the University of Texas.
-- 🔗 &nbsp; Seasoned in crafting, testing and deploying the APIs.
+- 👨🏼‍🎓 &nbsp; Master's of Science in Business Analytics at The University of Texas.
+- 🔗 &nbsp; Seasoned in crafting, testing and deployment of APIs.
 - 🤝 &nbsp; Sharing my expertise and learning from others within the community.
-- 🐍 &nbsp; Ask me anything about Python programming!
+- 🐍 &nbsp; Ask me anything about Python!
 
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
