@@ -7,6 +7,7 @@
 - 🔗 &nbsp; Seasoned in crafting, testing and deployment of APIs.
 - 🤝 &nbsp; Sharing my expertise and learning from others within the community.
 - 🐍 &nbsp; Ask me anything about Python!
+- 📰 &nbsp; Love reading and writing articles.
 
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
