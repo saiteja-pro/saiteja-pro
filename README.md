@@ -1,11 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&center=false&vCenter=true&width=520&lines=Coding+is+a+journey,+not+a+destination.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/saiteja-madha">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&center=true&vCenter=true&width=600&lines=Coding+is+a+journey,+not+a+destination.;Software+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
-# 👋 Hi, I'm Sai Teja Bhoomraogari 👨‍🍳
+<h1 align="center">👋 Hi, I'm Sai Teja Bhoomraogari 👨‍🍳</h1>
 
-💻 Software Engineer | Master of Science in Business Statistics @ The University of Texas at Arlington - College of Business
-📍 Currently exploring the intersection of backend systems, automation, and visual creativity  
-
----
+<p align="center">
+  💻 Software Engineer | Masters at The University of Texas
+  <br/>
+  📍 Exploring backend systems, automation, and creativity
+</p>
 
 ### 👨🏻‍💻 About Me
 
